@@ -8,7 +8,7 @@ export default defineSiteConfig({
     name: 'Amani',
     avatar: '/images/avatar.png',
   },
-  description: 'Valaxy Theme Yun Preview.',
+  description: 'Welcome to my blog.',
   social: [
     {
       name: 'QQ',
