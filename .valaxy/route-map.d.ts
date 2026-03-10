@@ -537,6 +537,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/hello-valaxy': RouteRecordInfo<
+      '/posts/hello-valaxy',
+      '/posts/hello-valaxy',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/hello-world': RouteRecordInfo<
       '/posts/hello-world',
       '/posts/hello-world',
@@ -1041,6 +1048,12 @@ declare module 'vue-router/auto-routes' {
     'pages/posts/2024-09-15-UGUI源码解析——Text.md': {
       routes:
         | '/posts/2024-09-15-UGUI源码解析——Text'
+      views:
+        | never
+    }
+    'pages/posts/hello-valaxy.md': {
+      routes:
+        | '/posts/hello-valaxy'
       views:
         | never
     }
