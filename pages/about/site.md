@@ -2,6 +2,4 @@
 title: 关于站点
 ---
 
-Valaxy + valaxy-theme-yun Demo Site
-
-- Default Theme: [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/blob/main/packages/valaxy-theme-yun/)
+当前记录一些个人学习的笔记与资料以及个人的游戏框架DGame开发记录和详细介绍。
