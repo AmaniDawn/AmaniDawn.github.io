@@ -42,7 +42,7 @@ title: 关于我
 
 </p>
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/duck.gif" width="150"/>
+<img align="right" alt="GIF" src="/images/duck.gif" width="150"/>
 
  &nbsp;  &nbsp;
 
