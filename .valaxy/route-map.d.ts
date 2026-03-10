@@ -250,13 +250,6 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/posts/2022-08-09-Markdown语法与外挂标签写法汇总': RouteRecordInfo<
-      '/posts/2022-08-09-Markdown语法与外挂标签写法汇总',
-      '/posts/2022-08-09-Markdown%E8%AF%AD%E6%B3%95%E4%B8%8E%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE%E5%86%99%E6%B3%95%E6%B1%87%E6%80%BB',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
     '/posts/2024-07-05-UGUI源码解析——目录': RouteRecordInfo<
       '/posts/2024-07-05-UGUI源码解析——目录',
       '/posts/2024-07-05-UGUI%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E2%80%94%E2%80%94%E7%9B%AE%E5%BD%95',
@@ -809,12 +802,6 @@ declare module 'vue-router/auto-routes' {
     'pages/posts/行为型设计模式-11种.md': {
       routes:
         | '/posts/行为型设计模式-11种'
-      views:
-        | never
-    }
-    'pages/posts/2022-08-09-Markdown语法与外挂标签写法汇总.md': {
-      routes:
-        | '/posts/2022-08-09-Markdown语法与外挂标签写法汇总'
       views:
         | never
     }
