@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(node --version && pnpm --version 2>/dev/null || npm --version)",
+      "Bash(cd \"D:/blog/valaxy-theme-yun\" && pnpm create valaxy . --yes)",
+      "Bash(cd \"D:/blog/valaxy-theme-yun\" && pnpm install)",
+      "Bash(cd \"D:/blog/valaxy-theme-yun\" && pnpm run dev)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:4859/ 2>/dev/null || echo \"Server not running\")",
+      "Bash(sleep 5 && curl -s -o /dev/null -w \"%{http_code}\" http://localhost:4859/)",
+      "Bash(sleep 3 && curl -s -o /dev/null -w \"HTTP Code: %{http_code}\\\\n\" http://localhost:4859/ 2>/dev/null || netstat -an | grep 4859 | head -3)",
+      "Bash(cd \"D:/blog/valaxy-theme-yun\" && exec pnpm run dev)",
+      "Bash(curl -s -o /dev/null -w \"Status: %{http_code}\\\\n\" http://localhost:4859/ 2>/dev/null || ps aux 2>/dev/null | grep -i \"node.*valaxy\" | grep -v grep | head -2)",
+      "Bash(sleep 8 && curl -s http://localhost:4859/ | head -30)"
+    ]
+  }
+}
