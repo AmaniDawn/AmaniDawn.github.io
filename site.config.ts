@@ -12,7 +12,7 @@ export default defineSiteConfig({
   social: [
     {
       name: 'QQ',
-      link: 'https://res.abeim.cn/api/qq/?qq=799375868',
+      link: 'mqqapi://card/show_pslcard?src_type=internal&version=1&uin=799375868&card_type=person&source=qrcode',
       icon: 'i-ri-qq-line',
       color: '#12B7F5',
     },
