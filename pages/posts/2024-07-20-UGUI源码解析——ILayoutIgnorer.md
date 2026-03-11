@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——ILayoutIgnorer
-path: /posts/ugui-ilayoutignorer
 tags:
 categories: UGUI源码解析
 mathjax: true

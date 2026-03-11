@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——Clipping
-path: /posts/ugui-clipping
 tags:
 categories: UGUI源码解析
 mathjax: true

@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——CanvasUpdateRegistry
-path: /posts/ugui-canvasupdateregistry
 tags:
 categories: UGUI源码解析
 mathjax: true

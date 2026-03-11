@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——Outline
-path: /posts/ugui-outline
 tags:
 categories: UGUI源码解析
 mathjax: true

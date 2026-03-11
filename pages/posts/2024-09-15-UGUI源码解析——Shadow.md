@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——Shadow
-path: /posts/ugui-shadow
 tags:
 categories: UGUI源码解析
 mathjax: true

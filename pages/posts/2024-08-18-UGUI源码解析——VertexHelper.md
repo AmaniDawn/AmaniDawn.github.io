@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——VertexHelper
-path: /posts/ugui-vertexhelper
 tags:
 categories: UGUI源码解析
 mathjax: true

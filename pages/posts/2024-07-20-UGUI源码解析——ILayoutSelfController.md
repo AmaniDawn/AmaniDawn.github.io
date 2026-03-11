@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——ILayoutSelfController
-path: /posts/ugui-ilayoutselfcontroller
 tags:
 categories: UGUI源码解析
 mathjax: true

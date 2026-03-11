@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——SetPropertyUtility
-path: /posts/ugui-setpropertyutility
 tags:
 categories: UGUI源码解析
 mathjax: true

@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——VerticalLayoutGroup
-path: /posts/ugui-verticallayoutgroup
 tags:
 categories: UGUI源码解析
 mathjax: true

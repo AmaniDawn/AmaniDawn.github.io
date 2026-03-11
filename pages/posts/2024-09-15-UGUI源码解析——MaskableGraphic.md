@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——MaskableGraphic
-path: /posts/ugui-maskablegraphic
 tags:
 categories: UGUI源码解析
 mathjax: true

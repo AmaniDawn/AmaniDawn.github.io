@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——IMaskable
-path: /posts/ugui-imaskable
 tags:
 categories: UGUI源码解析
 mathjax: true

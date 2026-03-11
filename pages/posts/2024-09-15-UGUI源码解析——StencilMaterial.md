@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——StencilMaterial
-path: /posts/ugui-stencilmaterial
 tags:
 categories: UGUI源码解析
 mathjax: true

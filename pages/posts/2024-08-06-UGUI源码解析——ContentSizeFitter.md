@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——ContentSizeFitter
-path: /posts/ugui-contentsizefitter
 tags:
 categories: UGUI源码解析
 mathjax: true

@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——IClipper
-path: /posts/ugui-iclipper
 tags:
 categories: UGUI源码解析
 mathjax: true

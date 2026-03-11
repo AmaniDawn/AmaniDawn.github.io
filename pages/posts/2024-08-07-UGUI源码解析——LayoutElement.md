@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——LayoutElement
-path: /posts/ugui-layoutelement
 tags:
 categories: UGUI源码解析
 mathjax: true

@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——Graphic
-path: /posts/ugui-graphic
 tags:
 categories: UGUI源码解析
 mathjax: true

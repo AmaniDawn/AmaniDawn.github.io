@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——IndexedSet
-path: /posts/ugui-indexedset
 tags:
 categories: UGUI源码解析
 mathjax: true

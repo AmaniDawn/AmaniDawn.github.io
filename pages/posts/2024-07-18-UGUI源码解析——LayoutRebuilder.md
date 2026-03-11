@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——LayoutRebuilder
-path: /posts/ugui-layoutrebuilder
 tags:
 categories: UGUI源码解析
 mathjax: true

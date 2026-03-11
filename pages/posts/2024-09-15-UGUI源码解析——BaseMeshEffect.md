@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——BaseMeshEffect
-path: /posts/ugui-basemesheffect
 tags:
 categories: UGUI源码解析
 mathjax: true

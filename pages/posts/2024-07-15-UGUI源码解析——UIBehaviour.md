@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——UIBehaviour
-path: /posts/ugui-uibehaviour
 tags:
 categories: UGUI源码解析
 mathjax: true

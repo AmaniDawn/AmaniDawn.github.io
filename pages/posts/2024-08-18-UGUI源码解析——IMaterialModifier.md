@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——IMaterialModifier
-path: /posts/ugui-imaterialmodifier
 tags:
 categories: UGUI源码解析
 mathjax: true

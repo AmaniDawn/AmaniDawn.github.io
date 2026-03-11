@@ -1,6 +1,5 @@
 ---
 title: UGUI源码解析——CoroutineTween
-path: /posts/ugui-coroutinetween
 tags:
 categories: UGUI源码解析
 mathjax: true
