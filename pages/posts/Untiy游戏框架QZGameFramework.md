@@ -1,11 +1,11 @@
 ---
 title: Untiy游戏框架QZGameFramework
-tags: 
-categories: 
+tags:
+categories:
 top: 1
 date: 2024-01-06
 updated: 2024-01-06
-description: 这是一个自研框架，目前适用大部分Unity游戏开发，欠缺AB包模块和热更模块。
+description: 已停止维护，新维护框架地址[**《DGame》**](https://github.com/AmaniDawn/DGame)
 ---
 
 ### 框架仓库链接——[**《QZGameFramework》**](https://github.com/AzureBubble/QZGameFramework)
