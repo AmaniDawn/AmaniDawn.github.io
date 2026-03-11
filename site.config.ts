@@ -43,7 +43,8 @@ export default defineSiteConfig({
   ],
 
   search: {
-    enable: false,
+    enable: true,
+    type: 'fuse',
   },
 
   comment: {
