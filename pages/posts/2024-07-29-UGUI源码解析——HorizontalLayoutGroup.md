@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——HorizontalLayoutGroup
-tags: 
-categories: 
+path: /posts/ugui-horizontallayoutgroup
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: >-
 date: 2024-07-29

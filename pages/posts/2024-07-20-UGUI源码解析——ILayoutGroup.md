@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——ILayoutGroup
-tags: 
-categories: 
+path: /posts/ugui-ilayoutgroup
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: >-
 date: 2024-07-20

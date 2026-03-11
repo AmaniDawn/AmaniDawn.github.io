@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——ILayoutController
-tags: 
-categories: 
+path: /posts/ugui-ilayoutcontroller
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 挂载了实现ILayoutController的组件的对象被视为一个布局控制器，布局控制器用于设置布局。布局控制器可分为两种：控制自身和控制子布局元素。
 date: 2024-07-20

@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——Graphic
-tags: 
-categories: 
+path: /posts/ugui-graphic
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 负责图像的更新与显示。
 date: 2024-08-18

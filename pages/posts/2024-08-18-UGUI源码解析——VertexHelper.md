@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——VertexHelper
-tags: 
-categories: 
+path: /posts/ugui-vertexhelper
+tags:
+categories: UGUI源码解析
 mathjax: true
 date: 2024-08-18
 updated: 2024-08-18

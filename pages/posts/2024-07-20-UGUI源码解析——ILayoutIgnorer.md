@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——ILayoutIgnorer
-tags: 
-categories: 
+path: /posts/ugui-ilayoutignorer
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 挂载了实现ILayoutIgnorer接口的组件对象可以设置不受布局系统控制，例如：LayoutElement
 date: 2024-07-20

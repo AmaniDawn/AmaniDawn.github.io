@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——ILayoutElement
-tags: 
-categories: 
+path: /posts/ugui-ilayoutelement
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 挂载了实现ILayoutElement的组件的对象被视为一个布局元素，布局元素不直接设置布局，只计算自身属性，设置布局由布局控制器设置
 date: 2024-07-20

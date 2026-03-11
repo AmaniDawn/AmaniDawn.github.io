@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——LayoutRebuilder
-tags: 
-categories: 
+path: /posts/ugui-layoutrebuilder
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 负责布局的刷新(UI对象位置和大小的刷新)
 date: 2024-07-18

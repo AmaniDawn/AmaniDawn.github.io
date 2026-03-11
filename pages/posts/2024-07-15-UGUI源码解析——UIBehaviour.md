@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——UIBehaviour
-tags: 
-categories: 
+path: /posts/ugui-uibehaviour
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: UI组件的基类，继承MonoBehaviour
 date: 2024-07-15

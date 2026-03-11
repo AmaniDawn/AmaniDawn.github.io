@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——IClipper
-tags: 
-categories: 
+path: /posts/ugui-iclipper
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 裁剪接口（裁剪者）
 date: 2024-07-17

@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——MaskableGraphic
-tags: 
-categories: 
+path: /posts/ugui-maskablegraphic
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 继承自 Graphic，实现了裁剪和遮罩功能。
 date: 2024-09-15

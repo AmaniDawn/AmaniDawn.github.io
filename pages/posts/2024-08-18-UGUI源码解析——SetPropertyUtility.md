@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——SetPropertyUtility
-tags: 
-categories: 
+path: /posts/ugui-setpropertyutility
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 设置UI元素属性的静态工具类。
 date: 2024-08-18

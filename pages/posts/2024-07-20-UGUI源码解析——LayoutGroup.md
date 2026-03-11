@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——LayoutGroup
-tags: 
-categories: 
+path: /posts/ugui-layoutgroup
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: >-
 date: 2024-07-20

@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——IMaterialModifier
-tags: 
-categories: 
+path: /posts/ugui-imaterialmodifier
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 材质处理的接口，可以在子类中实现GetModifiedMaterial方法去修改渲染的材质。
 date: 2024-08-18

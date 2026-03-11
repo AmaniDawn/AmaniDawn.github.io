@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——CanvasUpdateRegistry
-tags: 
-categories: 
+path: /posts/ugui-canvasupdateregistry
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 图像、布局重建注册器
 date: 2024-07-18

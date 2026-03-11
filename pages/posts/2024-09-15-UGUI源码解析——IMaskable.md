@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——IMaskable
-tags: 
-categories: 
+path: /posts/ugui-imaskable
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 遮罩接口(被遮罩者)
 date: 2024-09-15

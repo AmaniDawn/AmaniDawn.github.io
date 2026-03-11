@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——GridLayoutGroup
-tags: 
-categories: 
+path: /posts/ugui-gridlayoutgroup
+tags:
+categories: UGUI源码解析
 mathjax: true
 date: 2024-07-29
 updated: 2024-07-29

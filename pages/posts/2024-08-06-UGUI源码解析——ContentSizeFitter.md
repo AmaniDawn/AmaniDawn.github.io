@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——ContentSizeFitter
-tags: 
-categories: 
+path: /posts/ugui-contentsizefitter
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: 继承了ILayoutElement和ILayoutSelfController，是调整对象自适应的组件。
 date: 2024-08-06

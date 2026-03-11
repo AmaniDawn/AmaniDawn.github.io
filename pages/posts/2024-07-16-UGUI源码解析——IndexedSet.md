@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——IndexedSet
-tags: 
-categories: 
+path: /posts/ugui-indexedset
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: UGUI中继承IList实现特定功能的容器
 date: 2024-07-17

@@ -1,7 +1,8 @@
 ---
 title: UGUI源码解析——ILayoutSelfController
-tags: 
-categories: 
+path: /posts/ugui-ilayoutselfcontroller
+tags:
+categories: UGUI源码解析
 mathjax: true
 description: >-
 date: 2024-07-20
