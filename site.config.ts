@@ -3,7 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://valaxy.site/',
   lang: 'zh-CN',
-  title: "Amani's Blog",
+  title: "抓到你啦",
   author: {
     name: 'Amani',
     avatar: '/images/avatar.png',
