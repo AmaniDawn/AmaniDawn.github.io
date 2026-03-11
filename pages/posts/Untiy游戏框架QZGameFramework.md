@@ -10,7 +10,7 @@ description: 已停止维护，新维护框架地址[**《DGame》**](https://gi
 
 ### 框架仓库链接——[**《QZGameFramework》**](https://github.com/AzureBubble/QZGameFramework)
 
-#### <span style="color: #FF0000; background-color: #FFFF00; padding: 4px 8px; border-radius: 4px; font-weight: bold;">⚠ 已停止维护，新维护框架地址 [《DGame》](https://github.com/AmaniDawn/DGame)</span>
+#### <span style="color: #FF0000; background-color: #FFFF00; padding: 4px 8px; border-radius: 4px; font-weight: bold;">⚠ 已停止维护，新维护框架地址 [《DGame》](https://github.com/AmaniDawn/DGame)（新框架经过多个成熟商业项目以及百万DAU项目验证）</span>
 
 > 本框架的基础是在本人参加多个项目，并且查阅积累了各类优秀代码后，自己总结优化的一个较为通用且易用的简易游戏框架，并会在未来自我能力提升的同时继续优化更新此框架，目标是一个适用于新手入门和中小公司节约成本的前提下的涵盖前后端Unity游戏框架(目前后端服务器还在学习中...)。
 
