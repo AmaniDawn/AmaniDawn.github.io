@@ -81,7 +81,7 @@ title: 关于我
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝐚𝚛𝚊𝚙𝑎](https://github-readme-activity-graph.vercel.app/graph?username=AmaniDawn&theme=react-dark&hide_border=true&area=true)
 
-<img src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/icon.png" />
+<img src="/images/icon.png" />
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
