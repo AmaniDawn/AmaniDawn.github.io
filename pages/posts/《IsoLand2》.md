@@ -1,7 +1,13 @@
 ---
 title: 《IsoLand2》
-tags: 
-categories: 
+tags:
+  - C#
+  - Unity
+  - 2D
+  - 团队合作
+categories:
+  - 游戏开发
+  - 团队合作
 date: 2023-01-01
 updated: 2023-01-01
 ---

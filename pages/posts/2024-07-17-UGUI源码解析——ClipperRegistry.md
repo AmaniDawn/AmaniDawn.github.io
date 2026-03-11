@@ -2,7 +2,7 @@
 title: UGUI源码解析——ClipperRegistry
 path: /posts/ugui-clipperregistry
 tags:
-categories:
+categories: UGUI源码解析
 mathjax: true
 description: 一个裁剪注册器单例
 date: 2024-07-18
