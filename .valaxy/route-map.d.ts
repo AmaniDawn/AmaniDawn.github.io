@@ -565,6 +565,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/Unity游戏框架-DGame': RouteRecordInfo<
+      '/posts/Unity游戏框架-DGame',
+      '/posts/Unity%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6-DGame',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/UnityEdior': RouteRecordInfo<
       '/posts/UnityEdior',
       '/posts/UnityEdior',
@@ -1065,6 +1072,12 @@ declare module 'vue-router/auto-routes' {
     'pages/posts/Unity常用Attribue用法.md': {
       routes:
         | '/posts/Unity常用Attribue用法'
+      views:
+        | never
+    }
+    'pages/posts/Unity游戏框架-DGame.md': {
+      routes:
+        | '/posts/Unity游戏框架-DGame'
       views:
         | never
     }
