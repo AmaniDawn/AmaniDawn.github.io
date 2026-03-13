@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://valaxy.site/</id>
+    <title>Amani's Blog</title>
+    <updated>2026-03-13T02:52:01.804Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Amani</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://valaxy.site/"/>
+    <link rel="self" href="https://valaxy.site/atom.xml"/>
+    <subtitle>Welcome to my blog.</subtitle>
+    <logo>https://valaxy.site/images/avatar.png</logo>
+    <icon>https://valaxy.site/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2026 © Amani</rights>
+    <entry>
+        <title type="html"><![CDATA[Unity游戏框架 DGame —— 基于 TEngine 深度优化演进]]></title>
+        <id>https://valaxy.site/posts/Unity游戏框架-DGame</id>
+        <link href="https://valaxy.site/posts/Unity游戏框架-DGame"/>
+        <updated>2026-03-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[基于 TEngine 深度优化演进的 Unity 游戏框架，为商业级游戏开发打造，新增多个核心模块，经过多个商业化游戏及百万DAU项目验证。]]></summary>
+        <content type="html"><![CDATA[<div align="center">
+<p>&lt;img src=&quot;<a href="https://socialify.git.ci/AmaniDawn/DGame/image?custom_description=%25">https://socialify.git.ci/AmaniDawn/DGame/image?custom_description=%</a></p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Unity游戏框架-DGame" target="_blank">https://valaxy.site/posts/Unity游戏框架-DGame</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-03-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——BaseMeshEffect]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——BaseMeshEffect</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——BaseMeshEffect"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——BaseMeshEffect" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——BaseMeshEffect</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——Button]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——Button</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Button"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Button" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——Button</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——ClipperRegistry]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——ClipperRegistry</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——ClipperRegistry"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——ClipperRegistry" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——ClipperRegistry</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——Clipping]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——Clipping</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Clipping"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Clipping" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——Clipping</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——IClippable]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——IClippable</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——IClippable"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[裁剪接口(被裁剪者)]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>IClippable：MaskableGraphic继承此接口</p>
+</blockquote>
+<h4>源码解析</h4>
+<blockquote>
+<p>IClipper：裁剪接口（裁剪者），RectMask2D继承此接口。接口中只有一个方法，在子类中实现Pe</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——IClippable" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——IClippable</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——IMaskable]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——IMaskable</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——IMaskable"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[遮罩接口(被遮罩者)]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>IMaskable：可以在子类中实现RecalculateMasking方法去重新计算遮罩</p>
+</blockquote>
+<h4>源码解析</h4>
+<blockquote>
+<p>IMaskable接口</p>
+</blockquote>
+<pre><code class="language-c#">/// &lt;summary&gt;
+///   </code></pre>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——IMaskable" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——IMaskable</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——Image]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——Image</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Image"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Image" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——Image</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——Mask]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——Mask</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Mask"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Mask" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——Mask</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——MaskUtilities]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——MaskUtilities</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——MaskUtilities"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——MaskUtilities" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——MaskUtilities</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——MaskableGraphic]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——MaskableGraphic</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——MaskableGraphic"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[继承自 Graphic，实现了裁剪和遮罩功能。]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>MaskableGraphic：是可被遮罩的图像，严谨的说应该是可被遮罩和可被裁剪的图像，可它继承自Graphic类和IClippable、IMaskable、IMaterialModifier接</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——MaskableGraphic" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——MaskableGraphic</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——Outline]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——Outline</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Outline"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Outline" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——Outline</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——RawImage]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——RawImage</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——RawImage"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——RawImage" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——RawImage</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——RectMask2D]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——RectMask2D</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——RectMask2D"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——RectMask2D" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——RectMask2D</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——Shadow]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——Shadow</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Shadow"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Shadow" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——Shadow</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——StencilMaterial]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——StencilMaterial</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——StencilMaterial"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——StencilMaterial" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——StencilMaterial</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——Text]]></title>
+        <id>https://valaxy.site/posts/2024-09-15-UGUI源码解析——Text</id>
+        <link href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Text"/>
+        <updated>2024-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-09-15-UGUI源码解析——Text" target="_blank">https://valaxy.site/posts/2024-09-15-UGUI源码解析——Text</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——CoroutineTween]]></title>
+        <id>https://valaxy.site/posts/2024-08-18-UGUI源码解析——CoroutineTween</id>
+        <link href="https://valaxy.site/posts/2024-08-18-UGUI源码解析——CoroutineTween"/>
+        <updated>2024-08-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/2024-08-18-UGUI源码解析——CoroutineTween" target="_blank">https://valaxy.site/posts/2024-08-18-UGUI源码解析——CoroutineTween</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——Graphic]]></title>
+        <id>https://valaxy.site/posts/2024-08-18-UGUI源码解析——Graphic</id>
+        <link href="https://valaxy.site/posts/2024-08-18-UGUI源码解析——Graphic"/>
+        <updated>2024-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[负责图像的更新与显示。]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>Graphic：是UGUI的核心组件，负责图对象的显示和更新，是MaskableGraphic的基类，而MaskableGraphic是Text、RawImage、Image的基类。Graphi</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-08-18-UGUI源码解析——Graphic" target="_blank">https://valaxy.site/posts/2024-08-18-UGUI源码解析——Graphic</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——IMaterialModifier]]></title>
+        <id>https://valaxy.site/posts/2024-08-18-UGUI源码解析——IMaterialModifier</id>
+        <link href="https://valaxy.site/posts/2024-08-18-UGUI源码解析——IMaterialModifier"/>
+        <updated>2024-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[材质处理的接口，可以在子类中实现GetModifiedMaterial方法去修改渲染的材质。]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>IMaterialModifier：是材质处理的接口，可以在子类中实现GetModifiedMaterial方法去修改渲染的材质。<br>
+Mask实现了此接口</p>
+</blockquote>
+<h4>源码解析</h4>
+<blockquote>
+<p>GetMod</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-08-18-UGUI源码解析——IMaterialModifier" target="_blank">https://valaxy.site/posts/2024-08-18-UGUI源码解析——IMaterialModifier</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——SetPropertyUtility]]></title>
+        <id>https://valaxy.site/posts/2024-08-18-UGUI源码解析——SetPropertyUtility</id>
+        <link href="https://valaxy.site/posts/2024-08-18-UGUI源码解析——SetPropertyUtility"/>
+        <updated>2024-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[设置UI元素属性的静态工具类。]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>SetPropertyUtility：设置UI元素属性的静态工具类。</p>
+</blockquote>
+<h4>源码解析</h4>
+<blockquote>
+<p>SetColor:修改颜色值，如果新传入的颜色的RGBA和就颜色相同则不进行修改</p>
+</blockquote>
+<pre><code class="language-c#"></code></pre>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-08-18-UGUI源码解析——SetPropertyUtility" target="_blank">https://valaxy.site/posts/2024-08-18-UGUI源码解析——SetPropertyUtility</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——VertexHelper]]></title>
+        <id>https://valaxy.site/posts/2024-08-18-UGUI源码解析——VertexHelper</id>
+        <link href="https://valaxy.site/posts/2024-08-18-UGUI源码解析——VertexHelper"/>
+        <updated>2024-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[网格数据的工具类。]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>VertexHelper：是一个工具类，可以帮助我们快速创建网格<br>
+我们知道一个UI想要显示出来就需要对应的Mesh网格信息，而生成Mesh的网格信息就保存在了VertexHelper中，实际</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-08-18-UGUI源码解析——VertexHelper" target="_blank">https://valaxy.site/posts/2024-08-18-UGUI源码解析——VertexHelper</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——LayoutElement]]></title>
+        <id>https://valaxy.site/posts/2024-08-07-UGUI源码解析——LayoutElement</id>
+        <link href="https://valaxy.site/posts/2024-08-07-UGUI源码解析——LayoutElement"/>
+        <updated>2024-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[继承了ILayoutElement和ILayoutIgnorer接口，作为布局元素组件。]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>LayoutElement：继承了ILayoutElement和ILayoutIgnorer接口，作为布局元素组件<br>
+挂载了Layout Element组件的对象，布局并不会生效，它是受到实现</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-08-07-UGUI源码解析——LayoutElement" target="_blank">https://valaxy.site/posts/2024-08-07-UGUI源码解析——LayoutElement</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——LayoutUtility]]></title>
+        <id>https://valaxy.site/posts/2024-08-07-UGUI源码解析——LayoutUtility</id>
+        <link href="https://valaxy.site/posts/2024-08-07-UGUI源码解析——LayoutUtility"/>
+        <updated>2024-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[布局的工具类]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>LayoutUtility：布局的工具类，可以获取到对象的minWidth、preferredWidth、flexibleWidth、minHeight、preferredHeight、layou</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-08-07-UGUI源码解析——LayoutUtility" target="_blank">https://valaxy.site/posts/2024-08-07-UGUI源码解析——LayoutUtility</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——ContentSizeFitter]]></title>
+        <id>https://valaxy.site/posts/2024-08-06-UGUI源码解析——ContentSizeFitter</id>
+        <link href="https://valaxy.site/posts/2024-08-06-UGUI源码解析——ContentSizeFitter"/>
+        <updated>2024-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[继承了ILayoutElement和ILayoutSelfController，是调整对象自适应的组件。]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>ContentSizeFitter：它用于自适应对象尺寸，根据ILayoutElement接口的子物体调整自身大小。在使用时要注意，挂载ContentSizeFitter后，大小变化可能需要下一帧</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-08-06-UGUI源码解析——ContentSizeFitter" target="_blank">https://valaxy.site/posts/2024-08-06-UGUI源码解析——ContentSizeFitter</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——GridLayoutGroup]]></title>
+        <id>https://valaxy.site/posts/2024-07-29-UGUI源码解析——GridLayoutGroup</id>
+        <link href="https://valaxy.site/posts/2024-07-29-UGUI源码解析——GridLayoutGroup"/>
+        <updated>2024-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[继承自LayoutGroup，为网格布局组件，它同时实现了水平和竖直布局。]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>GridLayoutGroup：继承自LayoutGroup，为网格布局组件，它同时实现了水平和竖直布局。</p>
+</blockquote>
+<h4>源码解析</h4>
+<blockquote>
+<p>枚举Corner：标记网格起始的位置，有左上角、右上角、左下角</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-29-UGUI源码解析——GridLayoutGroup" target="_blank">https://valaxy.site/posts/2024-07-29-UGUI源码解析——GridLayoutGroup</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——HorizontalLayoutGroup]]></title>
+        <id>https://valaxy.site/posts/2024-07-29-UGUI源码解析——HorizontalLayoutGroup</id>
+        <link href="https://valaxy.site/posts/2024-07-29-UGUI源码解析——HorizontalLayoutGroup"/>
+        <updated>2024-07-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>HorizontalLayoutGroup：继承自HorizontalOrVerticalLayoutGroup，HorizontalOrVerticalLayoutGroup继承自LayoutG</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-29-UGUI源码解析——HorizontalLayoutGroup" target="_blank">https://valaxy.site/posts/2024-07-29-UGUI源码解析——HorizontalLayoutGroup</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——VerticalLayoutGroup]]></title>
+        <id>https://valaxy.site/posts/2024-07-29-UGUI源码解析——VerticalLayoutGroup</id>
+        <link href="https://valaxy.site/posts/2024-07-29-UGUI源码解析——VerticalLayoutGroup"/>
+        <updated>2024-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[继承自HorizontalOrVerticalLayoutGroup，HorizontalOrVerticalLayoutGroup继承自LayoutGroup，是垂直布局组件。会受到LayoutElement组件的影响。]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>VerticalLayoutGroup：继承自HorizontalOrVerticalLayoutGroup，HorizontalOrVerticalLayoutGroup继承自LayoutGro</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-29-UGUI源码解析——VerticalLayoutGroup" target="_blank">https://valaxy.site/posts/2024-07-29-UGUI源码解析——VerticalLayoutGroup</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——HorizontalOrVerticalLayoutGroup]]></title>
+        <id>https://valaxy.site/posts/2024-07-23-UGUI源码解析——HorizontalOrVerticalLayoutGroup</id>
+        <link href="https://valaxy.site/posts/2024-07-23-UGUI源码解析——HorizontalOrVerticalLayoutGroup"/>
+        <updated>2024-07-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>继承自LayoutGroup，是HorizontalLayoutGroup和VerticalLayoutGroup的父类，提供了一些HorizontalLayoutGroup和VerticalLa</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-23-UGUI源码解析——HorizontalOrVerticalLayoutGroup" target="_blank">https://valaxy.site/posts/2024-07-23-UGUI源码解析——HorizontalOrVerticalLayoutGroup</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——ILayoutController]]></title>
+        <id>https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutController</id>
+        <link href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutController"/>
+        <updated>2024-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[挂载了实现ILayoutController的组件的对象被视为一个布局控制器，布局控制器用于设置布局。布局控制器可分为两种：控制自身和控制子布局元素。]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>ILayoutController：挂载了实现ILayoutController的组件的对象被视为一个布局控制器，布局控制器用于设置布局。布局控制器可分为两种：控制自身和控制子布局元素</p>
+</blockquote>
+<h4></h4>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutController" target="_blank">https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutController</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——ILayoutElement]]></title>
+        <id>https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutElement</id>
+        <link href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutElement"/>
+        <updated>2024-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[挂载了实现ILayoutElement的组件的对象被视为一个布局元素，布局元素不直接设置布局，只计算自身属性，设置布局由布局控制器设置]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>ILayoutElement：挂载了实现ILayoutElement接口的组件的对象被视为一个布局元素，<font color=red>布局元素不直接设置布局，只计算自身属性，设置布局由布局控制器</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutElement" target="_blank">https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutElement</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——ILayoutGroup]]></title>
+        <id>https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutGroup</id>
+        <link href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutGroup"/>
+        <updated>2024-07-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>ILayoutGroup：继承自ILayoutController，挂载了实现ILayoutGroup的组件的对象被视为一个布局控制器，用于控制子布局对象，驱动它的子元素的RectTransfor</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutGroup" target="_blank">https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutGroup</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——ILayoutIgnorer]]></title>
+        <id>https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutIgnorer</id>
+        <link href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutIgnorer"/>
+        <updated>2024-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[挂载了实现ILayoutIgnorer接口的组件对象可以设置不受布局系统控制，例如：LayoutElement]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>ILayoutIgnorer：挂载了实现ILayoutIgnorer接口的组件的对象可以设置不受布局系统控制，例如LayoutElement。<br>
+<font color=red>实现ILayout</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutIgnorer" target="_blank">https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutIgnorer</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——ILayoutSelfController]]></title>
+        <id>https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutSelfController</id>
+        <link href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutSelfController"/>
+        <updated>2024-07-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>ILayoutSelfController：继承自ILayoutController(布局控制器)，挂载了实现ILayoutSelfController的组件的对象被视为一个布局控制器，用于控制自</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutSelfController" target="_blank">https://valaxy.site/posts/2024-07-20-UGUI源码解析——ILayoutSelfController</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——LayoutGroup]]></title>
+        <id>https://valaxy.site/posts/2024-07-20-UGUI源码解析——LayoutGroup</id>
+        <link href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——LayoutGroup"/>
+        <updated>2024-07-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>LayoutGroup：LayoutGroup是控制子布局对象组件的基类，实现了ILayoutElement和ILayoutGroup接口，继承自UIBehaviour，说明它既是一个布局元素也是</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-20-UGUI源码解析——LayoutGroup" target="_blank">https://valaxy.site/posts/2024-07-20-UGUI源码解析——LayoutGroup</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——ClipperRegistry]]></title>
+        <id>https://valaxy.site/posts/2024-07-17-UGUI源码解析——ClipperRegistry</id>
+        <link href="https://valaxy.site/posts/2024-07-17-UGUI源码解析——ClipperRegistry"/>
+        <updated>2024-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一个裁剪注册器单例]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>ClipperRegister：是一个裁剪注册器单例，用于跟踪场景中存在的所有IClipper。</p>
+<p>这在CanvasUpdate循环期间用于剔除可剪裁元素。剪裁在布局之后但在图形更新之前调</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-17-UGUI源码解析——ClipperRegistry" target="_blank">https://valaxy.site/posts/2024-07-17-UGUI源码解析——ClipperRegistry</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——CanvasUpdateRegistry]]></title>
+        <id>https://valaxy.site/posts/2024-07-18-UGUI源码解析——CanvasUpdateRegistry</id>
+        <link href="https://valaxy.site/posts/2024-07-18-UGUI源码解析——CanvasUpdateRegistry"/>
+        <updated>2024-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[图像、布局重建注册器]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>CanvasUpdate：用于描述在Canvas更新过程中可能发生的不同阶段</p>
+</blockquote>
+<pre><code class="language-c#">public enum CanvasUpdate
+{
+    /// &lt;summary&gt;
+    //</code></pre>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-18-UGUI源码解析——CanvasUpdateRegistry" target="_blank">https://valaxy.site/posts/2024-07-18-UGUI源码解析——CanvasUpdateRegistry</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——LayoutRebuilder]]></title>
+        <id>https://valaxy.site/posts/2024-07-18-UGUI源码解析——LayoutRebuilder</id>
+        <link href="https://valaxy.site/posts/2024-07-18-UGUI源码解析——LayoutRebuilder"/>
+        <updated>2024-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[负责布局的刷新(UI对象位置和大小的刷新)]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>LayoutRebuilder：用于管理CanvasElement布局重建的包装类，主要负责布局的刷新(UI对象位置和大小的刷新)。</p>
+</blockquote>
+<h4>源码解析</h4>
+<blockquote>
+<p>字段</p>
+</blockquote>
+<pre><code class="language-c#">private</code></pre>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-18-UGUI源码解析——LayoutRebuilder" target="_blank">https://valaxy.site/posts/2024-07-18-UGUI源码解析——LayoutRebuilder</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——IndexedSet]]></title>
+        <id>https://valaxy.site/posts/2024-07-16-UGUI源码解析——IndexedSet</id>
+        <link href="https://valaxy.site/posts/2024-07-16-UGUI源码解析——IndexedSet"/>
+        <updated>2024-07-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UGUI中继承IList实现特定功能的容器]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>IndexedSet：</p>
+<p>优点：保证容器元素的唯一性，快速随机移除，快速唯一的添加元素到容器尾部，顺序访问</p>
+<p>缺点：使用更多的内存，排序不是持久化的，不支持序列化</p>
+</blockquote>
+<pre><code class="language-c#">// 当删</code></pre>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-16-UGUI源码解析——IndexedSet" target="_blank">https://valaxy.site/posts/2024-07-16-UGUI源码解析——IndexedSet</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——IClipper]]></title>
+        <id>https://valaxy.site/posts/2024-07-17-UGUI源码解析——IClipper</id>
+        <link href="https://valaxy.site/posts/2024-07-17-UGUI源码解析——IClipper"/>
+        <updated>2024-07-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[裁剪接口（裁剪者）]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>IClipper：裁剪接口（裁剪者），RectMask2D继承此接口</p>
+</blockquote>
+<pre><code class="language-c#">// 子类实现PerformClipping
+public interface IClipper
+{
+</code></pre>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-17-UGUI源码解析——IClipper" target="_blank">https://valaxy.site/posts/2024-07-17-UGUI源码解析——IClipper</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——UIBehaviour]]></title>
+        <id>https://valaxy.site/posts/2024-07-15-UGUI源码解析——UIBehaviour</id>
+        <link href="https://valaxy.site/posts/2024-07-15-UGUI源码解析——UIBehaviour"/>
+        <updated>2024-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UI组件的基类，继承MonoBehaviour]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>UIBehaviour：是所有UI组件的基类，UI组件都是直接或者间接继承UIBehaviour这个抽象类，<font color=red>它继承自MonoBehaviour，所以拥有和Unit</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-15-UGUI源码解析——UIBehaviour" target="_blank">https://valaxy.site/posts/2024-07-15-UGUI源码解析——UIBehaviour</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGUI源码解析——目录]]></title>
+        <id>https://valaxy.site/posts/2024-07-05-UGUI源码解析——目录</id>
+        <link href="https://valaxy.site/posts/2024-07-05-UGUI源码解析——目录"/>
+        <updated>2024-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这是一篇阅读分析UGUI源码的文章分享，欢迎大佬指正，一起学习]]></summary>
+        <content type="html"><![CDATA[<p><a href="/posts/ugui-uibehaviour"><strong>UGUI源码解析——UIBehaviour</strong></a></p>
+<blockquote>
+<p>UIBehaviour：UI组件的基类，继承MonoBehaviour</p>
+</blockquote>
+<p>[**UGUI</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/2024-07-05-UGUI源码解析——目录" target="_blank">https://valaxy.site/posts/2024-07-05-UGUI源码解析——目录</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untiy游戏框架QZGameFramework]]></title>
+        <id>https://valaxy.site/posts/Untiy游戏框架QZGameFramework</id>
+        <link href="https://valaxy.site/posts/Untiy游戏框架QZGameFramework"/>
+        <updated>2024-01-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[已停止维护，新维护框架地址[**《DGame》**](https://github.com/AmaniDawn/DGame)]]></summary>
+        <content type="html"><![CDATA[<h3>框架仓库链接——<a href="https://github.com/AzureBubble/QZGameFramework"><strong>《QZGameFramework》</strong></a></h3>
+<h4>&lt;span sty</h4>
+<br/><p>访问 <a href="https://valaxy.site/posts/Untiy游戏框架QZGameFramework" target="_blank">https://valaxy.site/posts/Untiy游戏框架QZGameFramework</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-01-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnityEdior]]></title>
+        <id>https://valaxy.site/posts/UnityEdior</id>
+        <link href="https://valaxy.site/posts/UnityEdior"/>
+        <updated>2023-12-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/AzureBubble/PicBed@main/UnityEditor/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%E5%8A%A8%E5%9B%BE.gif" alt="插入排序"></p>
+<blockquote>
+<p>UnityEditor编</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/UnityEdior" target="_blank">https://valaxy.site/posts/UnityEdior</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-12-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法——最小生成树算法]]></title>
+        <id>https://valaxy.site/posts/算法——最小生成树算法</id>
+        <link href="https://valaxy.site/posts/算法——最小生成树算法"/>
+        <updated>2023-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>线性表</strong>：由同种数据类型的数据元素组成的有序序列。一般用于存储由顺序关系的数据序列。</p>
+<p><strong>树</strong>：树存储结构不允许存在环路。</p>
+<p><strong>图</strong>：图存储结构中可以存在环路。</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/算法——最小生成树算法" target="_blank">https://valaxy.site/posts/算法——最小生成树算法</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-08-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法——最短路径算法]]></title>
+        <id>https://valaxy.site/posts/算法——最短路径算法</id>
+        <link href="https://valaxy.site/posts/算法——最短路径算法"/>
+        <updated>2023-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/算法——最短路径算法" target="_blank">https://valaxy.site/posts/算法——最短路径算法</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-08-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法——查找算法]]></title>
+        <id>https://valaxy.site/posts/算法——查找算法</id>
+        <link href="https://valaxy.site/posts/算法——查找算法"/>
+        <updated>2023-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>查找</strong>（<code>Search</code>）：是在一个数据集合中查找满足给定条件的记录。对于查找问题来说，没有一种算法对于任何情况下都是合适的。</p>
+<p><strong>查找表</strong>（<code>Search Table</code>）：是由</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/算法——查找算法" target="_blank">https://valaxy.site/posts/算法——查找算法</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-08-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排序算法——归并/计数/基数/桶排序]]></title>
+        <id>https://valaxy.site/posts/排序算法——归并计数基数桶排序</id>
+        <link href="https://valaxy.site/posts/排序算法——归并计数基数桶排序"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>归并排序</h4>
+<blockquote>
+<p>归并排序：将两个或两个以上的有序子序列<code>归并</code>为一个有序序列。基于分治思想。</p>
+<ul>
+<li>时间复杂度=O(nlog<sub>2</sub>n)，空间复杂度=O(n)。稳定排序</li>
+</ul>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/排序算法——归并计数基数桶排序" target="_blank">https://valaxy.site/posts/排序算法——归并计数基数桶排序</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-07-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排序算法——选择排序]]></title>
+        <id>https://valaxy.site/posts/排序算法——选择排序</id>
+        <link href="https://valaxy.site/posts/排序算法——选择排序"/>
+        <updated>2023-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>简单选择排序</h4>
+<blockquote>
+<p>简单选择排序：在待排序的数据中选出最大（小）的元素放在其最终的位置。</p>
+<ul>
+<li>时间复杂度=O(n<sup>2</sup>)，空间复杂度=O(1)。稳定排序。</li>
+</ul>
+</blockquote>
+<p>![</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/排序算法——选择排序" target="_blank">https://valaxy.site/posts/排序算法——选择排序</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-07-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排序算法——插入排序]]></title>
+        <id>https://valaxy.site/posts/排序算法——插入排序</id>
+        <link href="https://valaxy.site/posts/排序算法——插入排序"/>
+        <updated>2023-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>在有序序列中插入一个元素，保持序列有序，有序长度不断增加。</p>
+</blockquote>
+<h4>直接插入排序</h4>
+<blockquote>
+<p>直接插入排序：采用顺序查找法查找插入位置。</p>
+<ul>
+<li>原始数据越接近有序，排序速度越快。</li>
+<li>时间</li>
+</ul>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/排序算法——插入排序" target="_blank">https://valaxy.site/posts/排序算法——插入排序</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-07-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排序算法——交换排序]]></title>
+        <id>https://valaxy.site/posts/排序算法——交换排序</id>
+        <link href="https://valaxy.site/posts/排序算法——交换排序"/>
+        <updated>2023-07-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>交换排序基本思想：两两比较，如果发生逆序则交换，直到所有记录都排好序为止。</p>
+</blockquote>
+<h4>冒泡排序</h4>
+<blockquote>
+<p>冒泡排序：每趟不断将记录两两比较，并按“前小后大”规则交换。</p>
+<ul>
+<li>事件复杂度=O(</li>
+</ul>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/排序算法——交换排序" target="_blank">https://valaxy.site/posts/排序算法——交换排序</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-07-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法——回溯算法]]></title>
+        <id>https://valaxy.site/posts/算法——回溯算法</id>
+        <link href="https://valaxy.site/posts/算法——回溯算法"/>
+        <updated>2023-07-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>回溯算法的基本思想：实际上是一个类似枚举的搜索尝试过程，主要是在搜索尝试过程中寻找问题的解，当发现不满足求解条件时，就“回溯”返回，尝试别的路径。是一种选优搜索法，按选优条件向前搜索，以达到</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/算法——回溯算法" target="_blank">https://valaxy.site/posts/算法——回溯算法</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-07-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法——分治算法]]></title>
+        <id>https://valaxy.site/posts/算法——分治算法</id>
+        <link href="https://valaxy.site/posts/算法——分治算法"/>
+        <updated>2023-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>分治算法的基本思想：先将整个问题拆分成多个相互独立且数据量更少的小问题，通过逐一解决这些简单的小问题，最终找到解决整个问题的方案。</p>
+<p>所谓问题间相互独立，简单理解就是每个问题都可以单独处理</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/算法——分治算法" target="_blank">https://valaxy.site/posts/算法——分治算法</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-06-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法——动态规划算法]]></title>
+        <id>https://valaxy.site/posts/算法——动态规划算法</id>
+        <link href="https://valaxy.site/posts/算法——动态规划算法"/>
+        <updated>2023-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>动规的基本思想：动规的实质是分治思想和解决冗余。将原问题分解为若干子问题，通过解决子问题的最优解来得到原问题的最优解。是一种解决多阶段决策问题的优化方法。</p>
+<p>与分治算法的不同之处在于，分治</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/算法——动态规划算法" target="_blank">https://valaxy.site/posts/算法——动态规划算法</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-06-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法——贪心算法]]></title>
+        <id>https://valaxy.site/posts/算法——贪心算法</id>
+        <link href="https://valaxy.site/posts/算法——贪心算法"/>
+        <updated>2023-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>贪心算法基本思想：在对问题求解时，总是做出在当前看来是最好的选择。也就是说不从整体最优上加以考虑，算法得到的是某种意义上的局部最优解。</p>
+<p>注意：贪心算法的每一步都是最优的解决方案，但整个算</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/算法——贪心算法" target="_blank">https://valaxy.site/posts/算法——贪心算法</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-06-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法——递归算法]]></title>
+        <id>https://valaxy.site/posts/算法——递归算法</id>
+        <link href="https://valaxy.site/posts/算法——递归算法"/>
+        <updated>2023-06-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>递归算法的基本思想：就是程序中不断反复的调用自身来解决问题的方法。这里强调的重点是调用自身，就是要求解的问题能够被分解成<strong>多个相同的小问题</strong>这样通过多次递归调用，便可以完成求解。</p>
+<p>递</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/算法——递归算法" target="_blank">https://valaxy.site/posts/算法——递归算法</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-06-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《巫鬼》]]></title>
+        <id>https://valaxy.site/posts/《巫鬼》</id>
+        <link href="https://valaxy.site/posts/《巫鬼》"/>
+        <updated>2023-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h5>2023年4月15日第三届中国大学生CUSGA游戏开发创作大赛《巫鬼》</h5>
+<h4>游戏类型：</h4>
+<blockquote>
+<p>2D 横版国风恐怖解谜 RPG 游戏</p>
+</blockquote>
+<h4>故事背景：</h4>
+<blockquote>
+<p>糅杂巫风和山海经元素</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/《巫鬼》" target="_blank">https://valaxy.site/posts/《巫鬼》</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行为型设计模式（Behavioral Design Patterns） - 11种]]></title>
+        <id>https://valaxy.site/posts/行为型设计模式-11种</id>
+        <link href="https://valaxy.site/posts/行为型设计模式-11种"/>
+        <updated>2023-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>行为型设计模式 （Behavioral Design Patterns）- 11种</h2>
+<p>[TOC]</p>
+<h3>什么是行为型设计模式</h3>
+<blockquote>
+<p>行为型设计模式（Behavioral Design Pa</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/行为型设计模式-11种" target="_blank">https://valaxy.site/posts/行为型设计模式-11种</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[结构型设计模式（Structural Design Patterns） - 7种]]></title>
+        <id>https://valaxy.site/posts/结构型设计模式-7种</id>
+        <link href="https://valaxy.site/posts/结构型设计模式-7种"/>
+        <updated>2023-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>结构型设计模式（Structural Design Patterns） - 7种</h2>
+<p>[TOC]</p>
+<hr>
+<h3>什么是结构型设计模式（Structural Design Patterns）</h3>
+<br/><p>访问 <a href="https://valaxy.site/posts/结构型设计模式-7种" target="_blank">https://valaxy.site/posts/结构型设计模式-7种</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创建型设计模式（Creational Design Patterns）-5种]]></title>
+        <id>https://valaxy.site/posts/创建型设计模式-5种</id>
+        <link href="https://valaxy.site/posts/创建型设计模式-5种"/>
+        <updated>2023-04-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>创建型设计模式（Creational Design Patterns） - 5种</h2>
+<p>[TOC]</p>
+<hr>
+<h3>设计模式的六大原则</h3>
+<h5>1. 开闭原则（Open Close Pr</h5>
+<br/><p>访问 <a href="https://valaxy.site/posts/创建型设计模式-5种" target="_blank">https://valaxy.site/posts/创建型设计模式-5种</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Moother》]]></title>
+        <id>https://valaxy.site/posts/《Moother》</id>
+        <link href="https://valaxy.site/posts/《Moother》"/>
+        <updated>2023-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h5>2023年2月3日48小时Globe Game Jam《Moother》，主题《Roots》</h5>
+<h4>游戏类型：</h4>
+<ul>
+<li>2D横板叙事冒险游戏</li>
+</ul>
+<h4>故事背景：</h4>
+<ul>
+<li>母亲的女儿</li>
+</ul>
+<br/><p>访问 <a href="https://valaxy.site/posts/《Moother》" target="_blank">https://valaxy.site/posts/《Moother》</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-02-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《救赎之路》]]></title>
+        <id>https://valaxy.site/posts/《救赎之路》</id>
+        <link href="https://valaxy.site/posts/《救赎之路》"/>
+        <updated>2023-01-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h5>2023年1月12-1月13日 UGDP高校寒假实训作品《救赎之路》</h5>
+<h4>游戏类型：</h4>
+<ul>
+<li>第三人称2D横版跳跃解谜</li>
+</ul>
+<h4>故事背景：</h4>
+<ul>
+<li>意识模糊间，你来到一个虚幻的世</li>
+</ul>
+<br/><p>访问 <a href="https://valaxy.site/posts/《救赎之路》" target="_blank">https://valaxy.site/posts/《救赎之路》</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity实用小技巧]]></title>
+        <id>https://valaxy.site/posts/Unity实用小技巧</id>
+        <link href="https://valaxy.site/posts/Unity实用小技巧"/>
+        <updated>2023-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://valaxy.site/posts/Unity实用小技巧" target="_blank">https://valaxy.site/posts/Unity实用小技巧</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《IsoLand2》]]></title>
+        <id>https://valaxy.site/posts/《IsoLand2》</id>
+        <link href="https://valaxy.site/posts/《IsoLand2》"/>
+        <updated>2023-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h5>胖不丁游戏公司面试题——实现《迷失岛2：时间的灰烬》中的一个小游戏</h5>
+<h5>实现要求：</h5>
+<blockquote>
+<p>请实现该游戏，是一个简单的解谜游戏，实现时间为一个礼拜。<br>
+该游戏共有5个场景，H1</p>
+</blockquote>
+<br/><p>访问 <a href="https://valaxy.site/posts/《IsoLand2》" target="_blank">https://valaxy.site/posts/《IsoLand2》</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《平台跳跃》]]></title>
+        <id>https://valaxy.site/posts/《平台跳跃》</id>
+        <link href="https://valaxy.site/posts/《平台跳跃》"/>
+        <updated>2022-12-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>2022年12月 自己写的《平台跳跃》，待完善中......</p>
+<h4>游戏类型：</h4>
+<ul>
+<li>2D横板平台跳跃冒险游戏</li>
+</ul>
+<h4>故事背景：</h4>
+<ul>
+<li>.......</li>
+</ul>
+<h4>核心机制：</h4>
+<ul>
+<li>..</li>
+</ul>
+<br/><p>访问 <a href="https://valaxy.site/posts/《平台跳跃》" target="_blank">https://valaxy.site/posts/《平台跳跃》</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-12-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shader学习笔记]]></title>
+        <id>https://valaxy.site/posts/Shader学习笔记</id>
+        <link href="https://valaxy.site/posts/Shader学习笔记"/>
+        <updated>2022-11-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3>一、升级旧项目为 URP 项目（Unity 2021.3.5f1c1）</h3>
+<ul>
+<li>
+<p><strong>1、安装 URP 包</strong></p>
+<ul>
+<li>在 Unity 的 Window 菜单中单击 Package Manag</li>
+</ul>
+</li>
+</ul>
+<br/><p>访问 <a href="https://valaxy.site/posts/Shader学习笔记" target="_blank">https://valaxy.site/posts/Shader学习笔记</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-11-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《来封印魔王吧！》]]></title>
+        <id>https://valaxy.site/posts/《来封印魔王吧！》</id>
+        <link href="https://valaxy.site/posts/《来封印魔王吧！》"/>
+        <updated>2022-10-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h5>2022年10月48小时吉比特国庆高校赛《来封印魔王吧！》</h5>
+<h4>游戏类型：</h4>
+<ul>
+<li>2D横板冒险游戏</li>
+</ul>
+<h4>故事背景：</h4>
+<ul>
+<li>勇者要来封印魔王,但是作为代价，每次封印都需要剥</li>
+</ul>
+<br/><p>访问 <a href="https://valaxy.site/posts/《来封印魔王吧！》" target="_blank">https://valaxy.site/posts/《来封印魔王吧！》</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-10-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《坦克大战》]]></title>
+        <id>https://valaxy.site/posts/《坦克大战》</id>
+        <link href="https://valaxy.site/posts/《坦克大战》"/>
+        <updated>2022-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h5>2022年9月 第一次使用 C# 的 Winform 仿照编写的坦克大战</h5>
+<p><strong>源码地址：</strong></p>
+<ul>
+<li>[<strong>《BattleCity》</strong>](<a href="https://github.com/Azur">https://github.com/Azur</a></li>
+</ul>
+<br/><p>访问 <a href="https://valaxy.site/posts/《坦克大战》" target="_blank">https://valaxy.site/posts/《坦克大战》</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity常用Attribue用法]]></title>
+        <id>https://valaxy.site/posts/Unity常用Attribue用法</id>
+        <link href="https://valaxy.site/posts/Unity常用Attribue用法"/>
+        <updated>2022-09-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>标记字段</h2>
+<hr>
+<h4>[Space]</h4>
+<ul>
+<li>可以与上面形成一个空隙，可以带参数。如[Space(20)];</li>
+</ul>
+<pre><code class="language-c#">// [Space]的用法和特性
+[Space]
+publi</code></pre>
+<br/><p>访问 <a href="https://valaxy.site/posts/Unity常用Attribue用法" target="_blank">https://valaxy.site/posts/Unity常用Attribue用法</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-09-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Information About The Author]]></title>
+        <id>https://valaxy.site/posts/hello-world</id>
+        <link href="https://valaxy.site/posts/hello-world"/>
+        <updated>2022-09-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Welcome to my bolg! 👋</h2>
+<hr>
+<h4>The following is some introduction about me.</h4>
+<ul>
+<li>**Loading......</li>
+</ul>
+<br/><p>访问 <a href="https://valaxy.site/posts/hello-world" target="_blank">https://valaxy.site/posts/hello-world</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Amani</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-09-13T00:00:00.000Z</published>
+    </entry>
+</feed>

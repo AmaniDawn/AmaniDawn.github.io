@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="/favicon.svg">
+    <script>
+    ;(function () {
+      const prefersDark =
+        window.matchMedia &&
+        window.matchMedia('(prefers-color-scheme: dark)').matches
+      const setting = localStorage.getItem('vueuse-color-scheme') || 'auto'
+      if (setting === 'dark' || (prefersDark && setting !== 'light'))
+        document.documentElement.classList.toggle('dark', true)
+    })()
+    </script>
+  <style type="text/css">
+    :root { color-scheme: light dark; --va-c-bg: #fff; }
+    html.dark { --va-c-bg: #000; }
+    html { background-color: var(--va-c-bg); }
+  </style><style id="valaxy-fouc">body{opacity:0!important}</style><style>body{transition:opacity .15s ease}</style><noscript><style>body{opacity:1!important}</style></noscript><script>(function foucGuardScript(maxDuration) {
+  var done = 0;
+  function reveal() {
+    if (done) return;
+    done = 1;
+    var s = document.getElementById("valaxy-fouc");
+    if (s) s.remove();
+  }
+  function check() {
+    var links = document.querySelectorAll('link[rel="stylesheet"]');
+    for (var i = 0; i < links.length; i++) {
+      if (!links[i].sheet) return;
+    }
+    reveal();
+  }
+  new MutationObserver(check).observe(document.head, {
+    childList: true,
+    attributes: true,
+    attributeFilter: ["media", "rel"]
+  });
+  addEventListener("load", reveal);
+  if (maxDuration)
+    setTimeout(reveal, maxDuration);
+})(5000)</script>
+    <script>
+    const locale = localStorage.getItem('valaxy-locale') || 'zh-CN';
+    document.documentElement.setAttribute('lang', locale);
+    </script>
+    
+  <script type="module" crossorigin src="/assets/index.DCmbWN2Q.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/framework.D2X4BooZ.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/vue-i18n.DHMy3Iij.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/vue-router.6TdZ8KcB.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/dayjs.BdcnXKr1.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/pinia.3rHOAZP_.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/nprogress.BpnVFhO4.js">
+  <link rel="modulepreload" crossorigin href="/assets/chunks/@vueuse/motion.BGeOR7uQ.js">
+  <link rel="stylesheet" crossorigin href="/assets/style.iecFJbXS.css">
+<link rel="preload" href="/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_AMS-Regular.DMm9YOAa.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Bold.Cx986IdX.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Bold.Jm3AIy58.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Italic.BMLOBm91.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Regular.B22Nviop.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Main-Regular.Dr94JaBh.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Math-Italic.t53AETM-.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Math-Italic.DA0__PXp.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Script-Regular.D3wIWfF6.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Script-Regular.D5yQViql.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size1-Regular.C195tn64.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size2-Regular.oD1tc_U0.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size3-Regular.CTq5MqoE.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Size4-Regular.BF-4gkZK.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/bg-img.kXdNMxcF.jpg" as="image">
+<link rel="preload" href="/assets/sidebar-bg-img.mp54gEws.webp" as="image">
+<link rel="modulepreload" crossorigin href="/assets/index.oIgfamOA.js">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>关于我 - Amani&#x27;s Blog</title>
+<script id="check-mac-os" async>document.documentElement.classList.toggle('mac', /Mac|iPhone|iPod|iPad/i.test(navigator.platform))</script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@900&display=swap">
+<meta property="og:locale:alternate" content="en">
+<meta name="description" content="Welcome to my blog.">
+<meta property="og:description" content="Welcome to my blog.">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:site_name" content="Amani's Blog">
+<meta property="og:title" content="关于我">
+<meta property="og:image" content="/favicon.svg">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://valaxy.site/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta name="generator" content="Valaxy 0.28.0-beta.1">
+<meta name="theme-color" content="#fff">
+<meta name="msapplication-TileColor" content="#fff">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+  <div id="app"><!--[--><!--[--><!--[--><!--v-if--><!--v-if--><div class="yun-page-header-gradient" style="--gradient-from:161 196 253;--gradient-to:194 233 251;"></div><!----><!----><!--v-if--><canvas class="fireworks"></canvas><!--[--><div class="yun-bg"></div><!--]--><div class="yun-page-loading" absolute left-0 right-0 bottom-0 top-0 flex justify="center" items-center z-10 bg="$va-c-bg" data-v-4a8abe07><div class="spinner" data-v-4a8abe07></div></div><a href="#" class="back-to-top yun-icon-btn bg-$va-c-bg-soft shadow-md"><div class="size-8" i-ri-arrow-up-s-line></div><svg class="progress-circle-container" viewBox="0 0 100 100"><circle stroke-dasharray="301.59289474462014 301.59289474462014" stroke-dashoffset="301.59289474462014" stroke="currentColor" stroke-width="2" stroke-linecap="round" class="progress-circle" cx="50" cy="50" r="48" fill="none"></circle></svg></a><!--]--><!--[--><!--]--><!----><!--]--><div class="min-h-screen flex flex-col"><div flex="~ grow" class="mt-12 md:mt-24 w-full m-auto justify-center items-start gap-4"><!--[--><!----><main class="yun-main lt-md:w-full" flex="~ center"><!--[--><div class="content w-full md:w-3xl lg:w-2xl xl:w-2xl 2xl:w-4xl" flex="~ col grow" p="lt-md:0"><div class="yun-card flex-center rounded-2 overflow-hidden" flex="col" min-h="100px" bg="$va-c-bg-light" m="0" style=""><!----><!----><div class="yun-card-body relative" w="full" flex="~ col" items="center"><!--[--><!----><div class="mt-8 mb-4"><!--[--><header class="post-header"><h1 p="2" text="2xl center" font="serif black" style="color:" class="post-title flex-center"><!----><span inline-flex class="leading-none">关于我</span></h1></header><!--]--></div><!--[--><!--]--><div p="x-4 b-8" class="sm:px-6 lg:px-12 xl:px-16" w="full"><!--[--><!--]--><!--[--><!-- <Transition appear> --><article class="markdown-body"><!--[--><!----><!----><!--[--><!--]--><!--[--><div align="center"><a href="https://amanidawn.github.io/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;width=600&amp;size=27&amp;lines=Debug.Log(%22Hello%2C%20World!%22);Hope+you+have+a+nice+day!"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there+🎉+I+am+Amani+Welcome+to+My+Profile!"></a><img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800" height="3"></div><!-- <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/AmaniDawn/Image/gif2.gif" width="380"/> --><h3> 👨🏻‍💻 About Me </h3><hr><ul><li>:shipit:   Unity Game Developer</li><li>🔱   Gaming &amp; XR Enthusiast</li><li>🎓   Leveling up in full-stack game development</li><li>🚀   Striving to elevate coding craftsmanship &amp; game dev skills</li><li>✍️   Goal: Become a versatile Lead Game Programmer</li><li>🎡   Dream: Ship a hit indie game</li></ul><h3> 🛠  Tech Stack</h3><hr><p align="center"><!-- https://github.com/LelouchFR/skill-icons --><img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,net,rider,visualstudio,vscode,mongodb,jenkins,aiscript,cpp,java,json,git,github,hexo&amp;titles=true" alt="Skill Icons" title="Skill Icons"></p><p>🌐  <img src="https://img.shields.io/badge/-CSharp-333333?style=flat&amp;logo=Csharp&amp;logoColor=512BD4" alt="C#"><img src="https://img.shields.io/badge/-Unity-333333?style=flat&amp;logo=unity&amp;logoColor=FFFFFF" alt="Unity"><img src="https://badgen.net/badge/HybridCLR/%E7%83%AD%E6%9B%B4%E6%96%B0/red" alt="HybridCLR"><img src="https://badgen.net/badge/YooAsset/%E7%83%AD%E6%9B%B4%E6%96%B0/red" alt="YooAsset"><img src="https://img.shields.io/badge/-C%20++-333333?style=flat&amp;logo=Cplusplus&amp;logoColor=00599C" alt="C++"><img src="https://img.shields.io/badge/-Json-333333?style=flat&amp;logo=Json&amp;logoColor=000000" alt="Json"><img src="https://img.shields.io/badge/-.NET-333333?style=flat&amp;logo=.net" alt=".NET"></p><p>⚙️  <img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github&amp;logoColor=181717" alt="GitHub"><img src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown&amp;logoColor=000000" alt="Markdown"><img src="https://img.shields.io/badge/-Hexo-333333?style=flat&amp;logo=hexo&amp;logoColor=0E83CD" alt="Hexo"></p><p align="left"><p>🔧  <img src="https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&amp;logo=visual-studio&amp;logoColor=5C2D91" alt="Visual Studio"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&amp;logo=intellijidea&amp;logoColor=000000" alt="IntelliJ IDEA"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code"><img src="https://img.shields.io/badge/-VMware-333333?style=flat&amp;logo=vmware&amp;logoColor=607078" alt="VMware"></p></p><img align="right" alt="GIF" src="/images/duck.gif" width="150"><p>   </p><p>   </p><p>   </p><h3> ⭐ Github Stats </h3><hr><p align="center"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaniDawn/AmaniDawn/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaniDawn/AmaniDawn/output/github-contribution-grid-snake.svg"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg"></p><p align="center"><a href="https://github.com/AmaniDawn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmaniDawn&amp;theme=solarized"></a></p><p align="center"><a href="https://github.com/AmaniDawn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmaniDawn&amp;theme=solarized"></a><a href="https://github.com/AmaniDawn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaniDawn&amp;theme=solarized"></a></p><p align="center"><a href="https://github.com/AmaniDawn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmaniDawn&amp;theme=solarized"></a><a href="https://github.com/AmaniDawn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmaniDawn&amp;theme=solarized&amp;utcOffset=8"></a></p><p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmaniDawn&amp;theme=onedark&amp;hide_border=true" alt="GitHub Streak"></a></p><figure><img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaniDawn&amp;theme=react-dark&amp;hide_border=true&amp;area=true" alt="𝚐𝚒𝚝𝚑𝚞𝚋 𝐚𝚛𝚊𝚙𝑎" loading="lazy" decoding="async"></figure><!-- <img src="https://cdn.jsdelivr.net/gh/AzureBubble/AzureBubble/Image/icon.png" /> --><p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=300&amp;&amp;section=footer&amp;text=THE%20END&amp;fontSize=90&amp;fontAlign=50&amp;fontAlignY=70&amp;desc=Keep%20it%20simple,%20stupid&amp;descAlign=50&amp;descSize=30&amp;descAlignY=40&amp;animation=twinkling" alt="The End" title="The End"></p><!--]--><!--]--><!----><!----></article><!-- </Transition> --><!--]--><!--[--><!--]--></div><!--]--></div><!----></div><!--[--><!--]--><!--[--><div class="post-nav"><div class="post-nav-item"><!----></div><div class="post-nav-item"><a href="/posts/Unity%25E6%25B8%25B8%25E6%2588%258F%25E6%25A1%2586%25E6%259E%25B6-DGame" class="post-nav-next" title="Unity游戏框架 DGame —— 基于 TEngine 深度优化演进"><span class="title truncate" text="sm">Unity游戏框架 DGame —— 基于 TEngine 深度优化演进</span><div class="icon" i-ri-arrow-right-s-line></div></a></div></div><!--]--><!--[--><!--]--><!----><!--[--><!-- eslint-disable-next-line vue/no-lone-template empty --><template class="mt-4"></template><!--]--><!--[--><!--]--><!--[--><!--]--></div><!--]--></main><!--[--><button class="xl:hidden toc-btn shadow-md fixed yun-icon-btn z-20 bg-$va-c-bg-soft" opacity="75" right="4" bottom="19"><div i-ri-file-list-line></div></button><!----><aside flex="~ col" class="va-card yun-aside sticky top-0 lg:top-$yun-margin-top min-h-sm rounded-2" text="center" overflow="auto"><div class="w-full" flex="~ col" pb-2 style="display:none;"><!--[--><h2 m="t-6 b-2" font="serif black">文章目录</h2><div style="display:none;" data-v-a73af815><div class="content" data-v-a73af815><div class="outline-title" data-v-a73af815>本页</div><div class="outline-marker" data-v-a73af815></div><nav aria-labelledby="doc-outline-aria-label" data-v-a73af815><span id="doc-outline-aria-label" class="visually-hidden" data-v-a73af815> Table of Contents for current page </span><ul class="root va-toc relative z-1 css-i18n-toc" data-v-a73af815 data-v-ba8f3299><!--[--><!--]--></ul></nav></div></div><!--]--><div class="flex-grow"></div><!----></div></aside><!--]--><!--]--></div><footer flex="~ col" class="relative yun-footer va-footer px-4 py-4 pt-0 text-$va-c-text-light w-full mt-14" bg="white dark:$va-c-bg-soft" text="center sm"><div class="yun-cloud absolute top--10 left-0 right-0"><svg class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto"><defs><path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" fill="var(--yun-c-cloud)"></path></defs><g class="parallax"><use xlink:href="#gentle-wave" x="48" y="0"></use><use xlink:href="#gentle-wave" x="48" y="3"></use><use xlink:href="#gentle-wave" x="48" y="5"></use><use xlink:href="#gentle-wave" x="48" y="7"></use></g></svg></div><div class="beian" m="y-2"><a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">苏ICP备17038157号</a><!----></div><div class="copyright flex justify-center items-center gap-2" p="1"><span> © <!--[-->2016 - <!--]--> 2026</span><a class="animate-pulse inline-flex" href="https://www.yunyoujun.cn/sponsors/" target="_blank" title="Sponsor YunYouJun"><div class="i-ri-cloud-line"></div></a><span>Amani</span></div><div class="powered" m="2"><span>由 <a href="https://github.com/YunYouJun/valaxy.git" target="_blank" rel="noopener">Valaxy</a> <span class="op-60">v0.28.0-beta.1</span> 驱动</span><span mx-1>|</span><span><span>主题</span><span mx-1>-</span><a href="https://github.com/YunYouJun/valaxy/tree/main/packages/valaxy-theme-yun.git" title="valaxy-theme-yun" target="_blank">Yun</a><span class="ml-1 op-60">v0.28.0-beta.1</span></span></div><!--[--><!--]--><div class="yun-footer-gradient" style="--gradient-from:161 196 253;--gradient-to:194 233 251;"></div></footer></div><!--]--></div><script>window.__INITIAL_STATE__='{"pinia":{"yun-app":{},"app":{"showLoading":true},"site":{},"routerStore":{}}}'</script><script type="application/ld+json" data-hid="schema-org-graph">{"@context":"https://schema.org","@graph":[{"@id":"https://valaxy.site/#identity","@type":"Person","name":"Amani","url":"https://valaxy.site/","image":{"@id":"https://valaxy.site/#/schema/image/1"},"sameAs":["mqqapi://card/show_pslcard?src_type=internal&version=1&uin=799375868&card_type=person&source=qrcode","https://github.com/AmaniDawn","https://space.bilibili.com/702532206","/images/qrcode.jpg","mailto:799375868@qq.com"]},{"@id":"https://valaxy.site/#website","@type":"WebSite","dateModified":"2026-03-13T02:51:21.819Z","datePublished":"2026-03-13T02:51:21.819Z","inLanguage":"en","name":"关于我","url":"https://valaxy.site/","publisher":{"@id":"https://valaxy.site/#identity"}},{"@id":"https://valaxy.site/#webpage","@type":"WebPage","description":"Welcome to my blog.","name":"关于我","url":"https://valaxy.site/","about":{"@id":"https://valaxy.site/#identity"},"isPartOf":{"@id":"https://valaxy.site/#website"},"potentialAction":[{"@type":"ReadAction","target":["https://valaxy.site/"]}]},{"@id":"https://valaxy.site/#/schema/image/1","@type":"ImageObject","contentUrl":"https://valaxy.site/images/avatar.png","inLanguage":"en","url":"https://valaxy.site/images/avatar.png"}]}</script>
+  
+</body>
+</html>
