@@ -1,0 +1,29 @@
+# Amani's Blog
+
+这是 Amani 的个人博客，使用 Valaxy 框架和 Yun 主题构建。
+
+## 关于
+
+本博客主要分享技术文章和个人思考。
+
+## 重要内容
+
+- 首页: /
+- 文章列表: /posts/
+- 关于页面: /about/
+
+## 技术栈
+
+- **框架**: Valaxy (https://valaxy.site/)
+- **主题**: valaxy-theme-yun (https://github.com/YunYouJun/valaxy)
+- **构建工具**: Vite
+- **前端框架**: Vue 3
+
+## 联系方式
+
+- GitHub: https://github.com/AmaniDawn
+- Email: mailto:799375868@qq.com
+
+## 详细文章
+
+请查看 /posts/ 目录获取所有文章列表。
