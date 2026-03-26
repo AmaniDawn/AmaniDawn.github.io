@@ -6,7 +6,7 @@ tags:
   - 开源项目
 categories: Unity游戏框架
 date: 2026-03-13
-updated: 2026-03-13
+updated: 2026-03-26
 description: 基于 TEngine 深度优化演进的 Unity 游戏框架，为商业级游戏开发打造，新增多个核心模块，经过多个商业化游戏及百万DAU项目验证。
 top: 1
 ---
@@ -21,6 +21,7 @@ top: 1
 
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3.30%2B-blue.svg?style=for-the-badge)](https://unity3d.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/AmaniDawn/DGame?style=for-the-badge&logo=github)](https://github.com/AmaniDawn/DGame/commits)
 [![Stars](https://img.shields.io/github/stars/AmaniDawn/DGame?style=for-the-badge&logo=github)](https://github.com/AmaniDawn/DGame/stargazers)
 
 </div>
@@ -50,6 +51,7 @@ top: 1
 - ⚡ 对现有系统进行深度优化
 - 💎 经过**百万 DAU** 项目验证
 - 🌐 **服务器分支同步接入 [Fantasy](https://github.com/qq362946/Fantasy) 框架**
+- 🤖 **支持 Codex Skills 协作开发，便于理解仓库结构与推进规格驱动工作流**
 
 </div>
 
@@ -100,6 +102,7 @@ top: 1
 - [🆕 新增功能一览](#-新增功能一览)
 - [⚡ 优化改进一览](#-优化改进一览)
 - [快速开始](#-快速开始)
+- [🤖 AI 协作开发](#-ai-协作开发)
 - [新增功能详解](#-新增功能详解)
 - [优化改进详解](#-优化改进详解)
 - [核心模块](#-核心模块)
@@ -195,7 +198,7 @@ top: 1
 
 **开发环境**
 
-.NET 4.x
+.NET 4.x / .NET Standard 2.1
 
 </div>
 
@@ -232,6 +235,74 @@ git clone https://github.com/AmaniDawn/DGame.git
 - 运行菜单 `HybridCLR/Install...` 安装 HybridCLR
 - 运行菜单 `HybridCLR/Generate/All` 生成必要的代码
 - 构建热更新 DLL 和资源包
+
+</div>
+
+---
+
+## 🤖 AI 协作开发
+
+<div style="background: linear-gradient(135deg, #1d4350 0%, #a43931 100%); padding: 28px; border-radius: 18px; color: white; margin: 20px 0;">
+
+本仓库已经完成了基础的 `codex skills` 支持，相关能力位于项目根目录的 `.codex/skills/`，可用于辅助理解 DGame 的目录结构、客户端架构、热更开发流程，以及基于 OpenSpec 的变更提案、实现与归档工作流。
+
+</div>
+
+<div style="background: rgba(29, 67, 80, 0.08); border-left: 4px solid #1d4350; padding: 20px; border-radius: 8px; margin: 20px 0;">
+
+### 推荐使用方式
+
+推荐优先使用 **Codex CLI**，并结合 **OpenSpec** 进行规格驱动开发：
+
+1. 使用 `Codex CLI` 在仓库内完成代码阅读、修改、调试与文档维护
+2. 使用 `OpenSpec` 先沉淀需求、设计和任务拆解
+3. 再通过 `Codex + OpenSpec` 按任务逐步实现、验证与归档
+
+</div>
+
+<div style="background: #263238; color: #aed581; padding: 20px; border-radius: 10px; margin: 15px 0; font-family: 'Consolas', monospace;">
+
+```bash
+# 1. 进入仓库
+cd DGame
+
+# 2. 初始化或更新 OpenSpec 结构
+openspec init
+
+# 3. 启动 Codex CLI
+codex
+
+# 4. 在 Codex 中按 OpenSpec 工作流推进
+```
+
+</div>
+
+<div style="background: rgba(244, 147, 251, 0.1); border-left: 4px solid #f093fb; padding: 20px; border-radius: 8px; margin: 20px 0;">
+
+> 💡 **提示**：初始化 OpenSpec 时，推荐优先选择 `Codex` 作为 AI 工具；如在 Windows 环境下遇到 Codex CLI 兼容性问题，优先考虑使用 WSL。
+
+</div>
+
+### 常用命令
+
+```bash
+npm install -g @openai/codex
+npm install -g @fission-ai/openspec@latest
+openspec --version
+openspec list
+openspec validate "<change-name>" --strict
+openspec archive "<change-name>" --yes
+```
+
+### 推荐工作流
+
+<div style="background: #e9ecef; padding: 20px; border-radius: 10px; margin: 15px 0; color: #333;">
+
+1. 先运行 `openspec init`，保证仓库具备标准化规格目录与 AI 协作入口
+2. 使用 `codex` 进入仓库，在需求较明确时优先走 OpenSpec 流程
+3. 先产出 proposal / design / tasks，再进入实现阶段
+4. 实现过程中优先复用本仓库已有的 `.codex/skills/` 与 `AGENTS.md`
+5. 开发完成后执行验证，并归档对应 OpenSpec change
 
 </div>
 
@@ -573,25 +644,25 @@ MemoryCollector.Release(obj);
 
 <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 15px 0; font-family: 'Consolas', monospace; font-size: 0.85em; overflow-x: auto;">
 
-```
+```text
 DGame/
 ├── GameConfig/              # 游戏配置（Luban）
 ├── GameRelease/             # 发布版本输出
 ├── GameUnity/               # Unity 主项目
 │   ├── Assets/
 │   │   ├── DGame/           # DGame 框架核心
-│   │   │   ├── Editor/      # 🆕 编辑器工具（工具栏扩展、Spine 助手等）
+│   │   │   ├── Editor/      # 编辑器工具（工具栏扩展、Spine 助手等）
 │   │   │   └── Runtime/     # 框架运行时代码
 │   │   │       ├── Core/    # 核心系统（日志、内存池、模块系统、事件）
-│   │   │       └── Module/  # 功能模块（GameTimer、AnimModule、InputModule等）
+│   │   │       └── Module/  # 功能模块（GameTimer、AnimModule、InputModule 等）
 │   │   └── Scripts/
 │   │       ├── HotFix/      # 热更新代码
-│   │       │   ├── GameBase/      # 基础框架程序集
-│   │       │   ├── GameProto/     # 配置协议程序集
-│   │       │   └── GameLogic/     # 业务逻辑程序集
-│   │       │       ├── Module/    # 🆕 红点系统、数据中心、UI 系统等
-│   │       │       ├── Common/    # 🆕 序列帧动画等
-│   │       │       └── GMPanel/   # 🆕 GM 系统
+│   │       │   ├── GameBase/
+│   │       │   ├── GameProto/
+│   │       │   └── GameLogic/
+│   │       │       ├── Module/    # 红点系统、数据中心、UI 系统等
+│   │       │       ├── Common/    # 序列帧动画等
+│   │       │       └── GMPanel/   # GM 系统
 │   │       └── Launcher/    # 启动器代码（AOT）
 │   └── ...
 ├── Tools/                   # 开发工具
@@ -611,6 +682,7 @@ DGame/
 | **Unity 版本** | 2021.3.30f1c1（推荐）或更高 |
 | **开发环境** | .NET 4.x / .NET Standard 2.1 |
 | **支持平台** | Windows、Android、iOS |
+| **IDE** | Visual Studio 2019+ 或 JetBrains Rider |
 
 </div>
 
